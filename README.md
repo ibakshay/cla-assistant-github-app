@@ -19,5 +19,5 @@ If you have suggestions for how cla-assistant-github-app could be improved, or w
 For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
-
+ 
 [ISC](LICENSE) © 2019 ibakshay <akshay.iyyadurai.balasundaram@sap.com>
